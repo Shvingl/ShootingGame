@@ -1,0 +1,4 @@
+name: InvincibleDogs
+version: '1.0'
+main: luke.y.invincibleDogs.InvincibleDogs
+api-version: '1.21'

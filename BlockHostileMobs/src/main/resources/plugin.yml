@@ -1,0 +1,4 @@
+name: BlockHostileMobs
+version: '1.0'
+main: luke.y.blockHostileMobs.BlockHostileMobs
+api-version: '1.21'

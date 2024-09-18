@@ -1,0 +1,4 @@
+name: NoHostileMobs
+version: '1.0'
+main: luke.y.noHostileMobs.NoHostileMobs
+api-version: '1.21'

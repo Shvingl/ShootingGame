@@ -1,0 +1,4 @@
+name: NoEXPFarms
+version: '1.0'
+main: luke.y.noEXPFarms.NoEXPFarms
+api-version: '1.21'
