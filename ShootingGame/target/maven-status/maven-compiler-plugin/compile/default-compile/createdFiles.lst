@@ -1,4 +1,7 @@
+luke\y\shootingGame\listeners\ArrowLandListener$1.class
 luke\y\shootingGame\ActiveGame$1.class
+luke\y\shootingGame\events\FinishShootingGameEvent.class
 luke\y\shootingGame\ActiveGame.class
 luke\y\shootingGame\listeners\ArrowLandListener.class
+luke\y\shootingGame\commands\StartShooter.class
 luke\y\shootingGame\ShootingGame.class

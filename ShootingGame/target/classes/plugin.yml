@@ -2,3 +2,5 @@ name: ShootingGame
 version: '1.0'
 main: luke.y.shootingGame.ShootingGame
 api-version: '1.21'
+commands:
+  startshooter:
